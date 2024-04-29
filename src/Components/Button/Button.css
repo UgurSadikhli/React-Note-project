@@ -1,0 +1,136 @@
+.New_task_button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+    color: #007BFF;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.New_task_button:hover {
+    background-color: #007BFF;
+    color: #fff;
+  }
+
+
+
+.filterB {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #ffb300;
+    border-radius: 5px;
+    color: #f31a1a;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.filterB:hover {
+    background-color: #ffb300;
+    color: #f31a1a;
+}
+
+
+.Save_button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+    color: #007BFF;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.Save_button:hover {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+
+.Delete_button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
+    color: #ff0000;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.Delete_button:hover {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+
+.Edit_button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+   
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+    color: #007BFF;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.Edit_button:hover {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.Cancel_button{
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
+    color: #ff0000;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.Cancel_button:hover {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.isFavorite_button {
+    display: inline-block;
+    cursor: pointer; 
+    border-radius: 5px;
+}
+
+.taskNotes
+{
+    color: rgba(240, 248, 255, 0.905);
+}
+
+.TaskNamecss
+{
+    color: rgba(240, 248, 255, 0.905);
+}
